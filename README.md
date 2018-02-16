@@ -1,14 +1,13 @@
 # FontAwesome5WithApacheFlex
 Just a simple demo that shows how to use FontAwesome5 with Apache Flex
 
+Use FontAwesome5 within your Apache Flex application in four steps. It's pretty straightforward:
 
-It's pretty straightforward to use FontAwesome5 within your Flex application:
+#### 1. Download [FontAwesome5](https://use.fontawesome.com/releases/v5.0.6/fontawesome-free-5.0.6.zip)
 
-### 1. Download [FontAwesome5](https://use.fontawesome.com/releases/v5.0.6/fontawesome-free-5.0.6.zip)
+#### 2. Grap the *.otf files from the "use-on-desktop" directory and paste it into your Flex project
 
-### 2. Grap the *.otf files from the "use-on-desktop" directory and paste it into your Flex project
-
-### 3. Apply the fonts by some style declaration
+#### 3. Apply the fonts by some style declaration
 (Spaces and hyphens are removed from otf file names here)
 
 ```
@@ -37,8 +36,10 @@ It's pretty straightforward to use FontAwesome5 within your Flex application:
 </fx:Style>
 ```
 
-4. Use it with e.g. the spark Label component
+#### 4. Use it with e.g. the spark Label component
 ```
 <s:Label text="\uf058" fontFamily="FontAwesome5Regular" fontSize="100" color="#000000" />
 ```
+
+Ou
 
