@@ -38,7 +38,7 @@ Use "Font Awesome 5" within your "Apache Flex" application in four steps, it's p
 			}	
 	</fx:Style>
 	```
-	Spaces and hyphens are removed from otf file names here.
+	Notice that spaces and hyphens are removed from otf file names here.
 
 
 4. Use it with e.g. the spark Label component
@@ -48,5 +48,6 @@ Use "Font Awesome 5" within your "Apache Flex" application in four steps, it's p
 	
 	
 You find a list of all icons in the "Font Awesome 5" [CheatSheet](https://fontawesome.com/cheatsheet).
+
 
 Thanks to the [Font Awesome 5](https://fontawesome.com) team for the great work and for still providing a free version of it!
