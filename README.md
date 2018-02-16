@@ -5,9 +5,7 @@ Just a simple demo that shows how to use FontAwesome5 with Apache Flex
 
 
 
-Use FontAwesome5 within your Apache Flex application in four steps.
-
-It's pretty straightforward:
+Use FontAwesome5 within your Apache Flex application in four steps, it's pretty straightforward:
 
 #### 1. Download [FontAwesome5](https://use.fontawesome.com/releases/v5.0.6/fontawesome-free-5.0.6.zip)
 
