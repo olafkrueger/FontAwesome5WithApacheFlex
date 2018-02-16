@@ -1,4 +1,4 @@
-# FontAwesome5WithApacheFlex
+# "Font Awesome 5" with "Apache Flex"
 Just a simple demo that shows how to use "Font Awesome 5" with Apache Flex
 
 ![alt text](https://github.com/olafkrueger/FontAwesome5WithApacheFlex/blob/master/OutputDemoApplication.PNG "Demo")
