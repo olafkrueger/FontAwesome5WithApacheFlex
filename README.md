@@ -1,11 +1,11 @@
 # FontAwesome5WithApacheFlex
-Just a simple demo that shows how to use FontAwesome5 with Apache Flex
+Just a simple demo that shows how to use "Font Awesome 5" with Apache Flex
 
 ![alt text](https://github.com/olafkrueger/FontAwesome5WithApacheFlex/blob/master/OutputDemoApplication.PNG "Demo")
 
 
 
-Use FontAwesome5 within your Apache Flex application in four steps, it's pretty straightforward:
+Use "Font Awesome 5" within your Apache Flex application in four steps, it's pretty straightforward:
 
 #### 1. Download [FontAwesome5](https://use.fontawesome.com/releases/v5.0.6/fontawesome-free-5.0.6.zip)
 
@@ -45,4 +45,4 @@ Spaces and hyphens are removed from otf file names here.
 ```
 <s:Label text="\uf058" fontFamily="FontAwesome5Regular" fontSize="100" color="#000000" />
 ```
-You find a list of all icons in the Font Awesome 5 [CheatSheet](https://fontawesome.com/cheatsheet).
+You find a list of all icons in the "Font Awesome 5" [CheatSheet](https://fontawesome.com/cheatsheet).
