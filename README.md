@@ -46,3 +46,5 @@ Spaces and hyphens are removed from otf file names here.
 <s:Label text="\uf058" fontFamily="FontAwesome5Regular" fontSize="100" color="#000000" />
 ```
 You find a list of all icons in the "Font Awesome 5" [CheatSheet](https://fontawesome.com/cheatsheet).
+
+Thanks to the [Font Awesome 5](https://fontawesome.com) team for the great work and for still providing a free version of it!
