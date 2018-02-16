@@ -8,7 +8,6 @@ Use FontAwesome5 within your Apache Flex application in four steps. It's pretty 
 #### 2. Grap the *.otf files from the "use-on-desktop" directory and paste it into your Flex project
 
 #### 3. Apply the fonts by some style declaration
-(Spaces and hyphens are removed from otf file names here)
 
 ```
 <fx:Style>
@@ -35,6 +34,8 @@ Use FontAwesome5 within your Apache Flex application in four steps. It's pretty 
 		}	
 </fx:Style>
 ```
+Spaces and hyphens are removed from otf file names here.
+
 
 #### 4. Use it with e.g. the spark Label component
 ```
