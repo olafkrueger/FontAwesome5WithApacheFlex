@@ -1,5 +1,5 @@
 # "Font Awesome 5" with "Apache Flex"
-Just a simple demo that shows how to use "Font Awesome 5" with "Apache Flex":
+This is just a simple demo that shows how to use "Font Awesome 5" with "Apache Flex":
 
 ![alt text](https://github.com/olafkrueger/FontAwesome5WithApacheFlex/blob/master/OutputDemoApplication.PNG "Demo")
 
@@ -38,7 +38,7 @@ Use "Font Awesome 5" within your "Apache Flex" application in four steps, it's p
 			}	
 	</fx:Style>
 	```
-	Notice that spaces and hyphens are removed from otf file names here.
+	Notice that spaces and hyphens are removed from the origin *.otf file names here.
 
 
 4. Use it with e.g. the spark Label component
