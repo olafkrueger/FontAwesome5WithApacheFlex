@@ -45,7 +45,7 @@ Use "Font Awesome 5" within your "Apache Flex" application in four steps, it's p
 	```
 	<s:Label text="\uf058" fontFamily="FontAwesome5Regular" fontSize="100" color="#000000" />
 	```
-	Notice that you have to add a leading `\u` before the icon code!
+	Notice that you have to add a leading `\u` to the icon code!
 	
 	
 You find a list of all icons in the "Font Awesome 5" [CheatSheet](https://fontawesome.com/cheatsheet).
